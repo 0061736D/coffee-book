@@ -1,0 +1,25 @@
+.page-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: 120px auto 50px;
+  grid-template-areas: 
+    "header header header"
+    "lnb main side";
+}
+
+header {
+  grid-area: header;
+}
+
+.lnb-wrapper {
+  grid-area: lnb;
+}
+
+.main-wrapper {
+  grid-area: main;
+}
+
+.side-wrapper {
+  grid-area: side;
+}
+
