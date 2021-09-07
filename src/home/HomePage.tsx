@@ -1,8 +1,8 @@
 
 function HomePage() {
-  return <main>
+  return <div className="home">
     home.
-  </main>
+  </div>
 }
 
 export { HomePage }

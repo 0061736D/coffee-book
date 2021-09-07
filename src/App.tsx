@@ -1,6 +1,6 @@
 import './App.css';
-import { PageWrapper } from './common/PageWrapper';
-import { FooterWrapper } from './common/FooterWrapper';
+import { PageWrapper } from './layout/PageWrapper';
+import { FooterWrapper } from './layout/FooterWrapper';
 
 function App() {
   return (

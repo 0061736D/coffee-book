@@ -4,22 +4,23 @@
   grid-template-rows: 120px auto 50px;
   grid-template-areas: 
     "header header header"
-    "lnb main side";
+    "lnb    main   side"
+    ".      .      .";
 }
 
-header {
+.page_header-wrapper {
   grid-area: header;
 }
 
-.lnb-wrapper {
+.page_lnb-wrapper {
   grid-area: lnb;
 }
 
-.main-wrapper {
+.page_main-wrapper {
   grid-area: main;
 }
 
-.side-wrapper {
+.page_side-wrapper {
   grid-area: side;
 }
 

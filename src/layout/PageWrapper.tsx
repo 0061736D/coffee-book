@@ -1,15 +1,10 @@
 import { BrowserRouter as Router, Link } from 'react-router-dom';
 import './layout.css';
 import { MainWrapper } from './MainWrapper';
-
-function HeaderWrapper() {
-  return <header>
-    <h1>커피-북</h1>
-  </header>
-}
+import { HeaderWrapper } from './HeaderWrapper';
 
 function LnbWrapper() {
-  return <aside className="lnb-wrapper">
+  return <aside className="page_lnb-wrapper">
     <header>
       <h2>목록</h2>
     </header>
@@ -39,7 +34,7 @@ function LnbWrapper() {
 }
 
 function SideWrapper() {
-  return <aside className="side-wrapper">
+  return <aside className="page_side-wrapper">
     <header>
       <h2>잘 된 사진 갤러리</h2>
     </header>
@@ -67,7 +62,7 @@ function PageWrapperDesktop() {
 
 
 function PageWrapperMobile() {
-  return <div className="page-wrapper-mobile">
+  return <div className="page-wrapper--mobile">
     <Router>
       <HeaderWrapper />
       <LnbWrapper />

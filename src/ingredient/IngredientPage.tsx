@@ -1,8 +1,8 @@
 
 function IngredientPage() {
-  return <main>
+  return <div className="ingredients">
     ingredients
-  </main>
+  </div>
 }
 
 export { IngredientPage }
