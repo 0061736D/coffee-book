@@ -1,5 +1,6 @@
 
 function DevNotePage() {
+  import('./data/sep2021.json').then((data)=> console.log(data));
   return <div className="devnote">
     <header>
       <h2>개발자 노트</h2>
