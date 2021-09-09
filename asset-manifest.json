@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/coffee-book/static/css/main.859e1a27.chunk.css",
-    "main.js": "/coffee-book/static/js/main.4ae63646.chunk.js",
-    "main.js.map": "/coffee-book/static/js/main.4ae63646.chunk.js.map",
-    "runtime-main.js": "/coffee-book/static/js/runtime-main.572bd29a.js",
-    "runtime-main.js.map": "/coffee-book/static/js/runtime-main.572bd29a.js.map",
-    "static/js/2.41556084.chunk.js": "/coffee-book/static/js/2.41556084.chunk.js",
-    "static/js/2.41556084.chunk.js.map": "/coffee-book/static/js/2.41556084.chunk.js.map",
-    "static/js/3.78116877.chunk.js": "/coffee-book/static/js/3.78116877.chunk.js",
-    "static/js/3.78116877.chunk.js.map": "/coffee-book/static/js/3.78116877.chunk.js.map",
+    "main.css": "/coffee-book/static/css/main.a03b7366.chunk.css",
+    "main.js": "/coffee-book/static/js/main.9ea67af8.chunk.js",
+    "main.js.map": "/coffee-book/static/js/main.9ea67af8.chunk.js.map",
+    "runtime-main.js": "/coffee-book/static/js/runtime-main.699c2092.js",
+    "runtime-main.js.map": "/coffee-book/static/js/runtime-main.699c2092.js.map",
+    "static/js/2.81c30022.chunk.js": "/coffee-book/static/js/2.81c30022.chunk.js",
+    "static/js/2.81c30022.chunk.js.map": "/coffee-book/static/js/2.81c30022.chunk.js.map",
+    "static/js/3.b4ceaa4d.chunk.js": "/coffee-book/static/js/3.b4ceaa4d.chunk.js",
+    "static/js/3.b4ceaa4d.chunk.js.map": "/coffee-book/static/js/3.b4ceaa4d.chunk.js.map",
+    "static/js/4.9ba9bf97.chunk.js": "/coffee-book/static/js/4.9ba9bf97.chunk.js",
+    "static/js/4.9ba9bf97.chunk.js.map": "/coffee-book/static/js/4.9ba9bf97.chunk.js.map",
     "index.html": "/coffee-book/index.html",
-    "static/css/main.859e1a27.chunk.css.map": "/coffee-book/static/css/main.859e1a27.chunk.css.map",
-    "static/js/2.41556084.chunk.js.LICENSE.txt": "/coffee-book/static/js/2.41556084.chunk.js.LICENSE.txt"
+    "static/css/main.a03b7366.chunk.css.map": "/coffee-book/static/css/main.a03b7366.chunk.css.map",
+    "static/js/2.81c30022.chunk.js.LICENSE.txt": "/coffee-book/static/js/2.81c30022.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.572bd29a.js",
-    "static/js/2.41556084.chunk.js",
-    "static/css/main.859e1a27.chunk.css",
-    "static/js/main.4ae63646.chunk.js"
+    "static/js/runtime-main.699c2092.js",
+    "static/js/2.81c30022.chunk.js",
+    "static/css/main.a03b7366.chunk.css",
+    "static/js/main.9ea67af8.chunk.js"
   ]
 }

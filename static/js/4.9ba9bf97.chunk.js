@@ -1,0 +1,2 @@
+(this["webpackJsonpcoffee-book"]=this["webpackJsonpcoffee-book"]||[]).push([[4],{31:function(e){e.exports=JSON.parse('{"title":"\ud504\ub85c\uc81d\ud2b8 \ubaa9\ud45c\uc640 \uad6c\ud604 \uc8fc\uc548\uc810","createdAt":"2021-09-08","modifiedAt":"2021-09-08","content":""}')}}]);
+//# sourceMappingURL=4.9ba9bf97.chunk.js.map

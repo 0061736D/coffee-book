@@ -1,0 +1,2 @@
+.page-wrapper{display:grid;grid-template-columns:1fr 2fr 1fr;grid-template-rows:120px auto 50px;grid-template-areas:"header header header" "lnb    main   side" ".      .      ."}.page_header-wrapper{grid-area:header}.page_lnb-wrapper{grid-area:lnb}.page_main-wrapper{grid-area:main}.page_side-wrapper{grid-area:side}
+/*# sourceMappingURL=main.a03b7366.chunk.css.map */
